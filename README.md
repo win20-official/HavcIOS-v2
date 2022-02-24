@@ -1,4 +1,7 @@
-This is a project of a os in Python (Polish ver only avaible now)
-If you want to download a English ver of this you need to wait maybe 2-3 days
-I'm begginer in Python so the code is not too much complicated 
-This Project is 4fun. It's just fun for me doing these things!
+# How did you rewrite @WinGuy-Tech HavclOS
+It started when i wanted to rewrite the OS it's self
+but it had some bugs so i fixed it
+
+# Who's the creator
+@win20-official Rewriter
+@WinGuy-Tech Original creator
