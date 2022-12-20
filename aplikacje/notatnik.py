@@ -17,7 +17,7 @@ if choice == "1":
     fixedclear()
 
 if choice == "2":
-    file(f"{path}/Main.py")
+    file(f"./{path}/main.py")
     fixedclear()
 
 if choice == "3":
