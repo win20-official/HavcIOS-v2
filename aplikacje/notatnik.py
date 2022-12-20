@@ -25,5 +25,5 @@ if choice == "3":
     fixedclear()
     print("Naprawiono problem z nie działającym zapisywaniem notatek.")
     print("Dodano wsparcie dla Linuxa itp.")
-    t.sleep(5)
+    t.sleep(3)
     file(f"{path}/main.py")
