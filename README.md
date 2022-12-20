@@ -1,4 +1,4 @@
-# How did you rewrite <a href="https://github.com/WinGuy-Tech">@WinGuy-Tech</a> HavclOS
+# How did you rewrite <a href="https://github.com/WinGuy-Tech">@WinGuy-Tech</a> HavcIOS
 It started when i wanted to rewrite the OS it's self
 but it had some bugs so i fixed it
 
