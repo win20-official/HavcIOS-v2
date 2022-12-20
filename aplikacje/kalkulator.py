@@ -30,4 +30,4 @@ if opcja == "2":
     halo = input("Czy chcesz powrócić do HavcOS? (Dostępna tylko opcja: Tak) ")
 
 if halo == "Tak":
-    file(f"./{path}/main.py")
+    file(f"{path}/main.py")
