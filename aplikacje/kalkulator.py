@@ -1,4 +1,5 @@
 from getpythonfiles.getbypath import *
+fixedclear()
 
 print("...::Kalkulator v1::...")
  

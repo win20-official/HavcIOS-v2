@@ -1,7 +1,7 @@
 from getpythonfiles.getbypath import *
+fixedclear()
 
-print("...::NOTATNIK V2::...")
-print("")
+print("...::NOTATNIK v2::...\n")
 print("Co chcesz zrobić?")
 print("1. Zrób Notatkę")
 print("2. Wyjdź z Notatnika")
