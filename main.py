@@ -1,4 +1,5 @@
 from getpythonfiles.getbypath import *
+fixedclear()
 
 wersja = 2.0
 print(f"Witaj w systemie HavcOS {wersja}!\n")
