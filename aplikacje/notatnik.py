@@ -1,4 +1,4 @@
-from ..getpythonfiles.getbypath import *
+from getpythonfiles.getbypath import *
 
 print("...::NOTATNIK V2::...")
 print("")
