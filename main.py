@@ -20,4 +20,4 @@ if opcja == "5":
     exit()
 
 if opcja == "3":
-    file(f"{path}/notatnik.py")
+    file(f"{path}/aplikacje/notatnik.py")
