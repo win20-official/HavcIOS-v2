@@ -1,4 +1,4 @@
-from ..getpythonfiles.getbypath import file, fixedpath, fixedclear
+from getpythonfiles.getbypath import *
 
 print("...::Kalkulator v1::...")
  
