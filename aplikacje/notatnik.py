@@ -26,4 +26,4 @@ if choice == "3":
     print("Naprawiono problem z nie działającym zapisywaniem notatek.")
     print("Dodano wsparcie dla Linuxa itp.")
     t.sleep(3)
-    file(f"{path}/main.py")
+    file(f"{path}/aplikacje/notatnik.py")
