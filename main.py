@@ -1,14 +1,15 @@
 from getpythonfiles.getbypath import *
 fixedclear()
 
+nazwa = "HavcIOS"
 wersja = 2.0
-print(f"Witaj w systemie HavcIOS {wersja}!\n")
+print(f"Witaj w systemie {nazwa} {wersja}!\n")
 print("Wybierz opcję:\n")
 print("1. Uruchom Kalkulator.")
 print("2. Uruchom program To Do.")
 print("3. Uruchom Program Notatnik.")
 print("4. Uruchom Program CleverBot.")
-print("5. Wyjdź z systemu HavcIOS.")
+print(f"5. Wyjdź z systemu {nazwa}.")
 
 opcja = input("Co chcesz zrobić? ")
 path = fixedpath
