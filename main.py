@@ -13,10 +13,10 @@ opcja = input("Co chcesz zrobić? ")
 path = fixedpath
 
 if opcja == "1":
-    file(f"{path}/aplikacje/Kalkulator.py")
+    file(f"{path}/aplikacje/kalkulator.py")
 
 if opcja == "5":
     exit()
 
 if opcja == "3":
-    file(f"{path}/Notatnik.py")
+    file(f"{path}/notatnik.py")
