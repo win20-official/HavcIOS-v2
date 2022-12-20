@@ -1,4 +1,5 @@
 from getpythonfiles.getbypath import *
+import time as t
 fixedclear()
 
 print("...::NOTATNIK v2::...\n")
@@ -21,5 +22,8 @@ if choice == "2":
     fixedclear()
 
 if choice == "3":
+    fixedclear()
     print("Naprawiono problem z nie działającym zapisywaniem notatek.")
     print("Dodano wsparcie dla Linuxa itp.")
+    t.sleep(5)
+    file(f"{path}/main.py")
