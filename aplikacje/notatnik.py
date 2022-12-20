@@ -7,7 +7,7 @@ print("1. Zrób Notatkę")
 print("2. Wyjdź z Notatnika")
 print("3. Nowe rzeczy")
 
-choice = input("Co chcesz zrobić?")
+choice = input("Co chcesz zrobić? ")
 path = fixedpath
 
 if choice == "1":

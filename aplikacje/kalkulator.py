@@ -14,7 +14,7 @@ print("...::Menu::...")
 print("1. Dodawanie   ")
 print("2. Mnożenie    ")
 
-opcja = input("Co chcesz zrobić?")
+opcja = input("Co chcesz zrobić? ")
 path = fixedpath
 
 if opcja == "1":

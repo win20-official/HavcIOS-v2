@@ -2,7 +2,7 @@ from getpythonfiles.getbypath import *
 fixedclear()
 
 wersja = 2.0
-print(f"Witaj w systemie HavcOS {wersja}!\n")
+print(f"Witaj w systemie HavclOS {wersja}!\n")
 print("Wybierz opcję:\n")
 print("1. Uruchom Kalkulator.")
 print("2. Uruchom program To Do.")
